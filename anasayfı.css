@@ -1,0 +1,19 @@
+body {
+    /*arkaplan rengi*/
+    background-color:Moccasin;
+}
+anasayfa {
+    background-color:Moccasin;
+}
+.baslik{
+    background-color:LightSalmon; 
+    color: black;
+    padding: 20px;
+    text-align:center;
+    height:75px;
+} 
+.düzen{
+	
+	width:35%;
+	float:left;
+}
